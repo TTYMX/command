@@ -1,0 +1,11 @@
+test git add
+使用 git reset HEAD 可以取消add的文件
+test git commit
+
+git commit --amend -m 添加vim和git常用命令 修改上次提交的内容
+
+git flow feature start 分支名
+git flow feature finish 分支名
+
+
+
