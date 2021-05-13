@@ -1,13 +1,25 @@
+
+## Git主要优点有
+
+    1. 分布式存储 , 本地仓库包含了远程仓库的所有内容
+    2. 安全性高 , 远程仓库文件丢失了也不怕
+    3. 优秀的分支模型 , 创建/合并分支非常的方便
+    4. 方便快速 , 由于代码本地都有存储 , 所以从远程拉取和分支合并时都非常快捷
+    5. 当分支过多时 ,我们采用Git Flow的模式
+
 ## git 命令
-git reset HEAD 可以取消add的文件 HEAD~1
+1. git reset HEAD 可以取消add的文件 HEAD~1
 
-git reset --mixed HEAD^ 可以取消commit的文件
-默认是--mixed
---mixed 撤销commit和add
---soft  不撤销add
---hard  撤销commit和add并恢复都上一次commit的状态
+2. git reset --mixed HEAD^ 可以取消commit的文件
+    ```
+    --mixed 撤销commit和add 默认值
+    --soft  不撤销add
+    --hard  撤销commit和add并恢复都上一次commit的状态
+    ```
 
-git commit --amend -m 修改提交文案
+3. git commit --amend -m 修改提交文案
+
+4. git rebase -i start-commit end-commit ***我不是很懂晚点看看***
 
 
 ## 解决git打开慢的方法

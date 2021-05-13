@@ -32,7 +32,10 @@ compser require
 
 ## 命令
 1. composer self-update 更新composer到最新
-2. composer require package-name 安装包
-3. composer update package-name  更新指定包
-4. composer remove package-name 删除包
-5. composer search package-name 寻找包
+2. composer require package-name 安装包 可以指定版本，如： composer require new/package ~2.5
+3. composer install package-name 如有 composer.lock 文件，直接安装，否则从 composer.json 安装最新扩展包和依赖；***不常用***
+4. composer update package-name  从 composer.json 安装最新扩展包和依赖 ***不常用***
+5. composer remove package-name 删除包
+6. composer search package-name 寻找包
+
+
