@@ -11,11 +11,9 @@
 1. git reset HEAD 可以取消add的文件 HEAD~1
 
 2. git reset --mixed HEAD^ 可以取消commit的文件
-    ```
-    --mixed 撤销commit和add 默认值
-    --soft  不撤销add
-    --hard  撤销commit和add并恢复都上一次commit的状态
-    ```
+    >--mixed 撤销commit和add 默认值<br>
+    >--soft  不撤销add<br>
+    >--hard  撤销commit和add并恢复都上一次commit的状态
 
 3. git commit --amend -m 修改提交文案
 
