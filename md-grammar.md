@@ -87,16 +87,6 @@
 * <font size=2 face="微软雅黑">我是微软雅黑</font>
 * <font face="STCAIYUN">我是华文彩云</font>
 
-## 图片
-1. <img src="http://pic11.photophoto.cn/20090626/0036036341009653_b.jpg" width="200" height="200">
-2. ![科比][kobe]
-
-[kobe]: http://pic11.photophoto.cn/20090626/0036036341009653_b.jpg "科比"
-
-3. ![科比](http://pic11.photophoto.cn/20090626/0036036341009653_b.jpg "科比")
-
-
-
 ## 任务列表
 
     - [] 未开始任务
@@ -114,4 +104,12 @@
 4. ab
 3. abc
 9. abcd
+
+## 图片
+1. <img src="http://pic11.photophoto.cn/20090626/0036036341009653_b.jpg" width="200" height="200">
+2. ![科比][kobe]
+
+[kobe]: http://pic11.photophoto.cn/20090626/0036036341009653_b.jpg "科比"
+
+3. ![科比](http://pic11.photophoto.cn/20090626/0036036341009653_b.jpg "科比")
 
