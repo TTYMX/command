@@ -18,6 +18,7 @@
 
 ### 切换镜像
 composer config -g repo.packagist composer https://mirrors.aliyun.com/composer/
+
 ## 使用
 take test
 compser require

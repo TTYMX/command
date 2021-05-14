@@ -1,3 +1,9 @@
+## GitFlow常用命令
+
+1. git flow init
+2. git flow feature start my-feature
+3. git flow feature finish my-feature
+
 ## GitFlow的常用分支
 1. master
     主分支 , 产品的功能全部实现后 , 最终在master分支对外发布

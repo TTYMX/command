@@ -121,7 +121,7 @@ pwd 查看当前所在文件位置
 * 在git中,有一个HEAD指针重视指向最新的提交.如果要从分段区域中撤销更改,则可以使用git checkout 命令, 必须提供一个附加参数, 即HEAD指针.
 附加的提交指针参数指示git checkout命令重置工作树,并删除分段更改
 
-* __<font color=#ff0000 size=7 face="黑体">
+* __<font color=#ff0000 font-size=7 face="黑体">
 已经git add 的如果想要撤销更改,
 可以使用 git checkout head -- filename 会撤销提交的变化,本地的也会删除</font>__
 
