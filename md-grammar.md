@@ -106,10 +106,10 @@
 9. abcd
 
 ## 图片
-1. <img src="http://pic11.photophoto.cn/20090626/0036036341009653_b.jpg" width="200" height="200">
-2. ![科比][kobe]
+<!-- 1. <img src="http://pic11.photophoto.cn/20090626/0036036341009653_b.jpg" width="200" height="200"> -->
+<!-- 2. ![科比][kobe]
 
 [kobe]: http://pic11.photophoto.cn/20090626/0036036341009653_b.jpg "科比"
 
-3. ![科比](http://pic11.photophoto.cn/20090626/0036036341009653_b.jpg "科比")
+3. ![科比](http://pic11.photophoto.cn/20090626/0036036341009653_b.jpg "科比") -->
 
